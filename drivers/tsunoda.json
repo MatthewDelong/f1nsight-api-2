@@ -2,7 +2,7 @@
     "driverId": "tsunoda",
     "driverCode": "TSU",
     "driverNumber": "22",
-    "lastUpdate": "2026-08-24T10:27:08.513974",
+    "lastUpdate": "2026-08-31T17:17:31.880632",
     "totalWins": 0,
     "totalPodiums": 0,
     "totalPoles": 0,
@@ -245,7 +245,7 @@
         },
         "2026": {
             "year": "2026",
-            "position": "0",
+            "position": "20",
             "points": "0"
         }
     },
@@ -619,7 +619,11 @@
         },
         "2026": {
             "year": "2026",
-            "pos": {}
+            "pos": {
+                "Dutch Grand Prix": {
+                    "points": 0
+                }
+            }
         }
     },
     "racePosition": {
@@ -1514,7 +1518,13 @@
         },
         "2026": {
             "year": "2026",
-            "QualiTimes": {}
+            "QualiTimes": {
+                "Dutch Grand Prix": [
+                    "1:13.085",
+                    "1:12.627",
+                    "N/A"
+                ]
+            }
         }
     },
     "consistency": {

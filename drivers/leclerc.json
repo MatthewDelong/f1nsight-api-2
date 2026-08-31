@@ -2,7 +2,7 @@
     "driverId": "leclerc",
     "driverCode": "LEC",
     "driverNumber": "16",
-    "lastUpdate": "2026-08-24T10:27:08.053185",
+    "lastUpdate": "2026-08-31T17:17:25.695606",
     "totalWins": 9,
     "totalPodiums": 54,
     "totalPoles": 27,
@@ -455,8 +455,8 @@
         },
         "2026": {
             "year": "2026",
-            "position": "4",
-            "points": "138"
+            "position": "5",
+            "points": "155"
         }
     },
     "posAfterRace": {
@@ -1054,6 +1054,9 @@
                 },
                 "Hungarian Grand Prix": {
                     "points": 138
+                },
+                "Dutch Grand Prix": {
+                    "points": 155
                 }
             }
         }
@@ -2485,6 +2488,11 @@
                     "1:18.984",
                     "1:17.626",
                     "1:17.445"
+                ],
+                "Dutch Grand Prix": [
+                    "1:13.064",
+                    "1:11.910",
+                    "1:11.558"
                 ]
             }
         }
@@ -2494,19 +2502,19 @@
             "wins": 1.0,
             "podiums": 6.0,
             "poles": 3.0,
-            "points": 201.11111111111111
+            "points": 203.0
         },
         "std": {
             "wins": 1.247219128924647,
             "podiums": 4.371625682868,
             "poles": 3.1269438398822866,
-            "points": 96.45660445614845
+            "points": 95.36246641105713
         },
         "cv": {
             "wins": 1.247219128924647,
             "podiums": 0.7286042804780001,
             "poles": 1.0423146132940955,
-            "points": 0.4796184751963183
+            "points": 0.46976584438944397
         }
     },
     "peakSeason": {

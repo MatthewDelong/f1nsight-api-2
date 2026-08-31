@@ -2,7 +2,7 @@
     "driverId": "sainz",
     "driverCode": "SAI",
     "driverNumber": "55",
-    "lastUpdate": "2026-08-24T10:27:08.907539",
+    "lastUpdate": "2026-08-31T17:17:37.018485",
     "totalWins": 4,
     "totalPodiums": 29,
     "totalPoles": 6,
@@ -532,7 +532,7 @@
         },
         "2026": {
             "year": "2026",
-            "position": "15",
+            "position": "16",
             "points": "6"
         }
     },
@@ -1322,6 +1322,9 @@
                     "points": 6
                 },
                 "Hungarian Grand Prix": {
+                    "points": 6
+                },
+                "Dutch Grand Prix": {
                     "points": 6
                 }
             }
@@ -3199,6 +3202,11 @@
                 ],
                 "Hungarian Grand Prix": [
                     "1:20.621",
+                    "N/A",
+                    "N/A"
+                ],
+                "Dutch Grand Prix": [
+                    "1:13.574",
                     "N/A",
                     "N/A"
                 ]

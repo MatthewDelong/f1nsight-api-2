@@ -2,7 +2,7 @@
     "driverId": "bortoleto",
     "driverCode": "BOR",
     "driverNumber": "5",
-    "lastUpdate": "2026-08-24T10:27:08.663543",
+    "lastUpdate": "2026-08-31T17:17:33.839244",
     "totalWins": 0,
     "totalPodiums": 0,
     "totalPoles": 0,
@@ -223,6 +223,9 @@
                     "points": 10
                 },
                 "Hungarian Grand Prix": {
+                    "points": 10
+                },
+                "Dutch Grand Prix": {
                     "points": 10
                 }
             }
@@ -502,6 +505,11 @@
                     "1:19.069",
                     "1:19.105",
                     "N/A"
+                ],
+                "Dutch Grand Prix": [
+                    "1:13.142",
+                    "1:12.433",
+                    "1:12.079"
                 ]
             }
         }

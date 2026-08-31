@@ -2,7 +2,7 @@
     "driverId": "hulkenberg",
     "driverCode": "HUL",
     "driverNumber": "27",
-    "lastUpdate": "2026-08-24T10:27:08.267841",
+    "lastUpdate": "2026-08-31T17:17:28.883562",
     "totalWins": 0,
     "totalPodiums": 1,
     "totalPoles": 1,
@@ -566,8 +566,8 @@
         },
         "2026": {
             "year": "2026",
-            "position": "18",
-            "points": "2"
+            "position": "15",
+            "points": "6"
         }
     },
     "posAfterRace": {
@@ -1438,6 +1438,9 @@
                 },
                 "Hungarian Grand Prix": {
                     "points": 2
+                },
+                "Dutch Grand Prix": {
+                    "points": 6
                 }
             }
         }
@@ -3520,6 +3523,11 @@
                     "1:18.796",
                     "1:18.639",
                     "1:18.686"
+                ],
+                "Dutch Grand Prix": [
+                    "1:13.188",
+                    "1:12.797",
+                    "N/A"
                 ]
             }
         }
@@ -3529,19 +3537,19 @@
             "wins": 0.0,
             "podiums": 0.06666666666666667,
             "poles": 0.06666666666666667,
-            "points": 41.6
+            "points": 41.86666666666667
         },
         "std": {
             "wins": 0.0,
             "podiums": 0.24944382578492943,
             "poles": 0.24944382578492946,
-            "points": 27.45371863093717
+            "points": 27.084723041268525
         },
         "cv": {
             "wins": 0,
             "podiums": 3.7416573867739418,
             "poles": 3.7416573867739418,
-            "points": 0.6599451593975282
+            "points": 0.6469280981194712
         }
     },
     "peakSeason": {

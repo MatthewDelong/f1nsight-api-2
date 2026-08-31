@@ -2,7 +2,7 @@
     "driverId": "max_verstappen",
     "driverCode": "VER",
     "driverNumber": "33",
-    "lastUpdate": "2026-08-24T10:27:09.368918",
+    "lastUpdate": "2026-08-31T17:17:43.367615",
     "totalWins": 71,
     "totalPodiums": 131,
     "totalPoles": 49,
@@ -671,7 +671,7 @@
         "2026": {
             "year": "2026",
             "position": "6",
-            "points": "109"
+            "points": "112"
         }
     },
     "posAfterRace": {
@@ -1464,6 +1464,9 @@
                 },
                 "Hungarian Grand Prix": {
                     "points": 109
+                },
+                "Dutch Grand Prix": {
+                    "points": 112
                 }
             }
         }
@@ -3355,6 +3358,11 @@
                     "1:18.656",
                     "1:18.249",
                     "1:17.725"
+                ],
+                "Dutch Grand Prix": [
+                    "1:13.290",
+                    "1:11.874",
+                    "1:11.618"
                 ]
             }
         }
@@ -3364,19 +3372,19 @@
             "wins": 5.916666666666667,
             "podiums": 10.916666666666666,
             "poles": 4.083333333333333,
-            "points": 296.125
+            "points": 296.375
         },
         "std": {
             "wins": 6.006362367430797,
             "podiums": 6.116348765580836,
             "poles": 4.499228328897696,
-            "points": 152.28647961982705
+            "points": 151.98123856252784
         },
         "cv": {
             "wins": 1.015159836748867,
             "podiums": 0.5602762228012981,
             "poles": 1.1018518356484155,
-            "points": 0.514264177694646
+            "points": 0.5128004675243453
         }
     },
     "peakSeason": {

@@ -2,7 +2,7 @@
     "driverId": "perez",
     "driverCode": "PER",
     "driverNumber": "11",
-    "lastUpdate": "2026-08-24T10:27:08.817590",
+    "lastUpdate": "2026-08-31T17:17:35.845721",
     "totalWins": 6,
     "totalPodiums": 39,
     "totalPoles": 3,
@@ -634,7 +634,7 @@
         },
         "2026": {
             "year": "2026",
-            "position": "22",
+            "position": "23",
             "points": "0"
         }
     },
@@ -1592,6 +1592,9 @@
                     "points": 0
                 },
                 "Hungarian Grand Prix": {
+                    "points": 0
+                },
+                "Dutch Grand Prix": {
                     "points": 0
                 }
             }
@@ -3876,6 +3879,11 @@
                 ],
                 "Hungarian Grand Prix": [
                     "1:21.322",
+                    "N/A",
+                    "N/A"
+                ],
+                "Dutch Grand Prix": [
+                    "1:14.600",
                     "N/A",
                     "N/A"
                 ]

@@ -2,7 +2,7 @@
     "driverId": "stroll",
     "driverCode": "STR",
     "driverNumber": "18",
-    "lastUpdate": "2026-08-24T10:27:09.214550",
+    "lastUpdate": "2026-08-31T17:17:41.200718",
     "totalWins": 0,
     "totalPodiums": 3,
     "totalPoles": 1,
@@ -427,7 +427,7 @@
         },
         "2026": {
             "year": "2026",
-            "position": "20",
+            "position": "21",
             "points": "0"
         }
     },
@@ -1084,6 +1084,9 @@
                     "points": 0
                 },
                 "Hungarian Grand Prix": {
+                    "points": 0
+                },
+                "Dutch Grand Prix": {
                     "points": 0
                 }
             }
@@ -2650,6 +2653,11 @@
                 ],
                 "Hungarian Grand Prix": [
                     "1:20.659",
+                    "N/A",
+                    "N/A"
+                ],
+                "Dutch Grand Prix": [
+                    "1:13.818",
                     "N/A",
                     "N/A"
                 ]

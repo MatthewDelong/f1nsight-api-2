@@ -2,7 +2,7 @@
     "driverId": "gasly",
     "driverCode": "GAS",
     "driverNumber": "10",
-    "lastUpdate": "2026-08-24T10:27:08.432730",
+    "lastUpdate": "2026-08-31T17:17:31.127549",
     "totalWins": 1,
     "totalPodiums": 5,
     "totalPoles": 0,
@@ -408,7 +408,7 @@
         "2026": {
             "year": "2026",
             "position": "10",
-            "points": "42"
+            "points": "44"
         }
     },
     "posAfterRace": {
@@ -1026,6 +1026,9 @@
                 },
                 "Hungarian Grand Prix": {
                     "points": 42
+                },
+                "Dutch Grand Prix": {
+                    "points": 44
                 }
             }
         }
@@ -2501,6 +2504,11 @@
                     "1:19.741",
                     "1:18.844",
                     "N/A"
+                ],
+                "Dutch Grand Prix": [
+                    "1:13.115",
+                    "1:12.616",
+                    "N/A"
                 ]
             }
         }
@@ -2510,19 +2518,19 @@
             "wins": 0.1,
             "podiums": 0.5,
             "poles": 0.0,
-            "points": 50.0
+            "points": 50.2
         },
         "std": {
             "wins": 0.30000000000000004,
             "podiums": 0.5,
             "poles": 0.0,
-            "points": 33.13004678535785
+            "points": 33.08715762950936
         },
         "cv": {
             "wins": 3.0000000000000004,
             "podiums": 1.0,
             "poles": 0,
-            "points": 0.662600935707157
+            "points": 0.6591067256874374
         }
     },
     "peakSeason": {

@@ -2,7 +2,7 @@
     "driverId": "colapinto",
     "driverCode": "COL",
     "driverNumber": "43",
-    "lastUpdate": "2026-08-24T10:27:08.731749",
+    "lastUpdate": "2026-08-31T17:17:34.913589",
     "totalWins": 0,
     "totalPodiums": 0,
     "totalPoles": 0,
@@ -258,6 +258,9 @@
                     "points": 19
                 },
                 "Hungarian Grand Prix": {
+                    "points": 19
+                },
+                "Dutch Grand Prix": {
                     "points": 19
                 }
             }
@@ -577,6 +580,11 @@
                 "Hungarian Grand Prix": [
                     "1:19.771",
                     "1:19.027",
+                    "N/A"
+                ],
+                "Dutch Grand Prix": [
+                    "1:13.322",
+                    "1:12.800",
                     "N/A"
                 ]
             }

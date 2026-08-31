@@ -2,7 +2,7 @@
     "driverId": "lawson",
     "driverCode": "LAW",
     "driverNumber": "40",
-    "lastUpdate": "2026-08-24T10:27:08.188126",
+    "lastUpdate": "2026-08-31T17:17:27.759222",
     "totalWins": 0,
     "totalPodiums": 0,
     "totalPoles": 0,
@@ -144,7 +144,7 @@
         "2026": {
             "year": "2026",
             "position": "9",
-            "points": "43"
+            "points": "49"
         }
     },
     "posAfterRace": {
@@ -303,6 +303,9 @@
                 },
                 "Hungarian Grand Prix": {
                     "points": 43
+                },
+                "Dutch Grand Prix": {
+                    "points": 49
                 }
             }
         }
@@ -693,6 +696,11 @@
                     "1:19.161",
                     "1:18.765",
                     "N/A"
+                ],
+                "Dutch Grand Prix": [
+                    "1:13.392",
+                    "1:12.301",
+                    "1:11.733"
                 ]
             }
         }
@@ -702,19 +710,19 @@
             "wins": 0.0,
             "podiums": 0.0,
             "poles": 0.0,
-            "points": 21.75
+            "points": 23.25
         },
         "std": {
             "wins": 0.0,
             "podiums": 0.0,
             "poles": 0.0,
-            "points": 18.846418757949746
+            "points": 20.632195714465293
         },
         "cv": {
             "wins": 0,
             "podiums": 0,
             "poles": 0,
-            "points": 0.8665020118597584
+            "points": 0.8874062672888299
         }
     },
     "peakSeason": {

@@ -2,7 +2,7 @@
     "driverId": "bottas",
     "driverCode": "BOT",
     "driverNumber": "77",
-    "lastUpdate": "2026-08-24T10:27:09.056705",
+    "lastUpdate": "2026-08-31T17:17:39.221616",
     "totalWins": 10,
     "totalPodiums": 67,
     "totalPoles": 20,
@@ -611,7 +611,7 @@
         },
         "2026": {
             "year": "2026",
-            "position": "21",
+            "position": "22",
             "points": "0"
         }
     },
@@ -1451,6 +1451,9 @@
                     "points": 0
                 },
                 "Hungarian Grand Prix": {
+                    "points": 0
+                },
+                "Dutch Grand Prix": {
                     "points": 0
                 }
             }
@@ -3459,6 +3462,11 @@
                 ],
                 "Hungarian Grand Prix": [
                     "1:20.886",
+                    "N/A",
+                    "N/A"
+                ],
+                "Dutch Grand Prix": [
+                    "1:14.371",
                     "N/A",
                     "N/A"
                 ]

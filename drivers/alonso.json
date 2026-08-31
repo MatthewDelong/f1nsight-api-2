@@ -2,7 +2,7 @@
     "driverId": "alonso",
     "driverCode": "ALO",
     "driverNumber": "14",
-    "lastUpdate": "2026-08-24T10:27:08.345254",
+    "lastUpdate": "2026-08-31T17:17:29.964692",
     "totalWins": 32,
     "totalPodiums": 106,
     "totalPoles": 22,
@@ -1005,7 +1005,7 @@
         "2026": {
             "year": "2026",
             "position": "19",
-            "points": "1"
+            "points": "3"
         }
     },
     "posAfterRace": {
@@ -2438,6 +2438,9 @@
                 },
                 "Hungarian Grand Prix": {
                     "points": 1
+                },
+                "Dutch Grand Prix": {
+                    "points": 3
                 }
             }
         }
@@ -5762,6 +5765,11 @@
                     "1:20.126",
                     "1:19.808",
                     "N/A"
+                ],
+                "Dutch Grand Prix": [
+                    "1:13.650",
+                    "N/A",
+                    "N/A"
                 ]
             }
         }
@@ -5771,19 +5779,19 @@
             "wins": 1.391304347826087,
             "podiums": 4.608695652173913,
             "poles": 0.9565217391304348,
-            "points": 104.08695652173913
+            "points": 104.17391304347827
         },
         "std": {
             "wins": 2.221224308599096,
             "podiums": 5.264641120224978,
             "poles": 1.7315050218904244,
-            "points": 85.9696170007694
+            "points": 85.8662519999224
         },
         "cv": {
             "wins": 1.5965049718056001,
             "podiums": 1.142327790237495,
             "poles": 1.8102097956127163,
-            "points": 0.8259403471251865
+            "points": 0.8242586794650313
         }
     },
     "peakSeason": {

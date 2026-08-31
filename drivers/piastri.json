@@ -2,7 +2,7 @@
     "driverId": "piastri",
     "driverCode": "PIA",
     "driverNumber": "81",
-    "lastUpdate": "2026-08-24T10:27:08.119557",
+    "lastUpdate": "2026-08-31T17:17:26.713315",
     "totalWins": 9,
     "totalPodiums": 28,
     "totalPoles": 6,
@@ -209,7 +209,7 @@
         "2026": {
             "year": "2026",
             "position": "7",
-            "points": "92"
+            "points": "104"
         }
     },
     "posAfterRace": {
@@ -473,6 +473,9 @@
                 },
                 "Hungarian Grand Prix": {
                     "points": 92
+                },
+                "Dutch Grand Prix": {
+                    "points": 104
                 }
             }
         }
@@ -1108,6 +1111,11 @@
                     "1:18.891",
                     "1:17.928",
                     "1:17.684"
+                ],
+                "Dutch Grand Prix": [
+                    "1:12.610",
+                    "1:11.641",
+                    "1:11.305"
                 ]
             }
         }
@@ -1117,19 +1125,19 @@
             "wins": 2.25,
             "podiums": 7.0,
             "poles": 1.5,
-            "points": 222.75
+            "points": 225.75
         },
         "std": {
             "wins": 2.8613807855648994,
             "podiums": 5.744562646538029,
             "poles": 2.598076211353316,
-            "points": 134.8765639390328
+            "points": 132.03858337622378
         },
         "cv": {
             "wins": 1.2717247935843998,
             "podiums": 0.8206518066482898,
             "poles": 1.7320508075688774,
-            "points": 0.6055064598834244
+            "points": 0.5848885199389758
         }
     },
     "peakSeason": {

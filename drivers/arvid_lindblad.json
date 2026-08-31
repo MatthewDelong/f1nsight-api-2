@@ -2,7 +2,7 @@
     "driverId": "arvid_lindblad",
     "driverCode": "LIN",
     "driverNumber": "41",
-    "lastUpdate": "2026-08-24T10:27:08.593415",
+    "lastUpdate": "2026-08-31T17:17:32.924558",
     "totalWins": 0,
     "totalPodiums": 0,
     "totalPoles": 0,
@@ -95,6 +95,9 @@
                     "points": 22
                 },
                 "Hungarian Grand Prix": {
+                    "points": 23
+                },
+                "Dutch Grand Prix": {
                     "points": 23
                 }
             }
@@ -196,6 +199,11 @@
                     "1:19.233",
                     "1:18.360",
                     "1:18.281"
+                ],
+                "Dutch Grand Prix": [
+                    "1:13.074",
+                    "1:12.525",
+                    "1:12.185"
                 ]
             }
         }

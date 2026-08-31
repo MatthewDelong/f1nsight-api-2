@@ -2,7 +2,7 @@
     "driverId": "bearman",
     "driverCode": "BEA",
     "driverNumber": "38",
-    "lastUpdate": "2026-08-24T10:27:09.295610",
+    "lastUpdate": "2026-08-31T17:17:42.293986",
     "totalWins": 0,
     "totalPodiums": 0,
     "totalPoles": 0,
@@ -249,6 +249,9 @@
                     "points": 18
                 },
                 "Hungarian Grand Prix": {
+                    "points": 18
+                },
+                "Dutch Grand Prix": {
                     "points": 18
                 }
             }
@@ -567,6 +570,11 @@
                 ],
                 "Hungarian Grand Prix": [
                     "1:20.233",
+                    "N/A",
+                    "N/A"
+                ],
+                "Dutch Grand Prix": [
+                    "1:13.826",
                     "N/A",
                     "N/A"
                 ]
